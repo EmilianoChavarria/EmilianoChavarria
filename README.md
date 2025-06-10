@@ -36,8 +36,8 @@
 
 ## 📈 Estadísticas
 
-![Aldrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrickemiliano&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrickemiliano&layout=compact&theme=radical)
+![Aldrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoChavarria&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoChavarria&layout=compact&theme=radical)
 
 ---
 
