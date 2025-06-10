@@ -15,7 +15,7 @@ Trabajo con tecnologías como React, React Native y Angular.
 
 ### 📈 Analytics
 
-![Aldrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoChavarria&show_icons=true&theme=radical)Add commentMore actions
+![Aldrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoChavarria&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoChavarria&layout=compact&theme=radical)
 
 
