@@ -5,7 +5,7 @@ Me interesa todo lo relacionado con el desarrollo web y móvil.
 Trabajo con tecnologías como React, React Native y Angular.
 
 ### 📫 Contacto
-- Email: aldrickemiliano@gmail.com
+- Email: aldrickemilianoch@gmail.com
 
 💻 Sigo aprendiendo y desarrollando proyectos por mi cuenta
 
