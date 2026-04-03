@@ -1,23 +1,31 @@
-# 👋 Hola, soy Aldrick Emiliano
+# 👋 Hi! I'm Emiliano Chavarría 
 
-Soy estudiante de Desarrollo de Software Multiplataforma.  
-Me interesa todo lo relacionado con el desarrollo web y móvil.  
-Trabajo con tecnologías como React, React Native y Angular.
+### 👨‍💻 About Me
+I am a passionate **Multiplatform Software Development Student** focused on creating efficient and attractive digital solutions. My main focus is the **JavaScript/TypeScript** ecosystem, allowing me to move with agility between modern web development and native mobile applications.
 
-### 📫 Contacto
-- Email: aldrickemilianoch@gmail.com
+- 🎓 Currently pursuing a degree in Software Development.
+- 🚀 Constantly exploring new architectures in **React** and **Angular**.
+- 📱 Developing mobile apps with **React Native**.
+- 🛠️ Focused on writing clean, scalable code with solid UI/UX practices.
 
-💻 Sigo aprendiendo y desarrollando proyectos por mi cuenta
+---
 
+### 📫 Contact
+- Email: [aldrickemilianoch@gmail.com](mailto:aldrickemilianoch@gmail.com)
+- LinkedIn: www.linkedin.com/in/aldrick-emiliano-chavarria-ibarra-b17a1a329
 
-### ⚒️ Tecnologías que uso
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,git,tailwind,react,angular,laravel&perline=11" />
+---
 
-### 📈 Analytics
+### ⚒️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,git,tailwind,vite,postman,react,angular,laravel&perline=12" />
+</p>
 
-![Aldrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoChavarria&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoChavarria&layout=compact&theme=radical)
+---
 
-
-
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=EmilianoChavarria&show_icons=true&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilianoChavarria&theme=radical&hide_border=true" width="48%" /> 
+</p>
 
